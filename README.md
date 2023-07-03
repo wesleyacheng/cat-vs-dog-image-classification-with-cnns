@@ -1,7 +1,7 @@
 # cat-vs-dog-image-classification-with-cnns
 Cat vs Dog Image Classification with CNNs
 
-In this notebook, we will be training **six** different neural network architecture to show how **convolutions** helps improve image classification performance considerably despite using less parameters.
+In this notebook, we will be training **six** different neural network architectures to show how **convolutions** helps improve image classification performance considerably despite using less parameters.
 
 This is inspired by a [convolutional neural network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network) called [LeNet-5](https://paperswithcode.com/method/lenett) 👇, created by one of the AI Godfathers [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), that popularized the use of [convolutions](https://en.wikipedia.org/wiki/Convolution) in deep learning. 
 
